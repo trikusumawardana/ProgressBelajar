@@ -13,3 +13,4 @@ Belajar di kelas Belajar Dasar Git dan Github. (Progres 39%)
  * Update
 
 **28 February 2023 (1:15 AM)**
+Belajar di kelas Belajar Dasar Git dan Github. (Progres 70%)
