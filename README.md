@@ -14,3 +14,5 @@ Belajar di kelas Belajar Dasar Git dan Github. (Progres 39%)
 
 **28 February 2023 (1:15 AM)**
 Belajar di kelas Belajar Dasar Git dan Github. (Progres 70%)
+ * Belajar melakukan Pull Request
+ * Belajar Squashing
